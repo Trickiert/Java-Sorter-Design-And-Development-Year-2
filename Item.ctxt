@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=iID\ dsc\ pr\ nStk\ lvl
+comment0.target=Item(java.lang.Integer,\ java.lang.String,\ double,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.Integer\ getItemID()
+comment10.params=
+comment10.target=java.lang.String\ briefString()
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=pr
+comment4.target=void\ setPrice(double)
+comment5.params=
+comment5.target=int\ getNumInStock()
+comment6.params=n
+comment6.target=void\ addNumInStock(int)
+comment7.params=n
+comment7.target=void\ subNumInStock(int)
+comment8.params=
+comment8.target=int\ getReordLvl()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
