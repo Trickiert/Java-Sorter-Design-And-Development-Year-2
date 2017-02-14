@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=oID\ i\ c\ q\ ts
+comment0.target=Order(int,\ Item,\ Customer,\ int,\ long)
+comment1.params=oID\ i\ c\ q
+comment1.target=Order(int,\ Item,\ Customer,\ int)
+comment2.params=
+comment2.target=int\ getID()
+comment3.params=
+comment3.target=Item\ getItem()
+comment4.params=
+comment4.target=Customer\ getCustomer()
+comment5.params=
+comment5.target=int\ getQty()
+comment6.params=
+comment6.target=long\ getTimeStamp()
+comment7.params=q
+comment7.target=void\ setQty(int)
+comment8.params=
+comment8.target=void\ updateTimeStamp()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
