@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=evt
+comment0.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment0.text=\r\n\ Actions\:\ on\ click\ of\ 'Submit',\ make\ an\ order\ record\ and\ add\ to\ database;\r\n\ \ \ \ \ \ \ \ \ \ on\ click\ of\ 'Hide',\ hide\ the\ dialogue\ window.\r\n
+comment1.params=
+comment1.target=void\ processOrder()
+comment1.text=\r\n\ Does\ the\ actual\ work\ of\ creating\ an\ order\ record\ and\ adding\ it.\r\n
+numComments=2
